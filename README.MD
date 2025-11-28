@@ -39,12 +39,12 @@ Aucune installation complexe n'est requise. L'application utilise les librairies
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone https://github.com/votre-nom/matrix-studio.git
+    git clone https://github.com/Tiger-Foxx/led-matrix-tkinter.git
     cd matrix-studio
     ```
 2.  Lancez le script :
     ```bash
-    python matrix_studio.py
+    python main.py
     ```
 
 ## Guide de Configuration (Export)
