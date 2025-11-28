@@ -80,6 +80,8 @@ Une fois l'export terminé, vous obtiendrez 4 fichiers :
 3.  `nom_BL.bin` (Bottom-Left) -\> Charger dans l'EEPROM U6
 4.  `nom_BR.bin` (Bottom-Right) -\> Charger dans l'EEPROM U7
 
+<img src="MONTAGE.png">
+
 Dans Proteus : Double-cliquez sur chaque EEPROM et chargez le fichier correspondant dans le champ "Image File".
 
 
